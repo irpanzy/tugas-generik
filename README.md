@@ -46,6 +46,16 @@ Pastikan Anda telah menginstal **Java Development Kit (JDK)**. Anda dapat mengun
      ```
      java Main
      ```
+4. **Output yang Diharapkan**
+Saat program dijalankan, Anda akan melihat output seperti berikut:
+   ```
+   Items in inventory:
+   Pilot Pen - $2.5
+   A4 Paper - $5.0
+   
+   Items in inventory after removal:
+   A4 Paper - $5.0
+   ```
 
 ## Teknologi yang Digunakan
 
