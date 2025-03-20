@@ -1,6 +1,6 @@
 # Sistem Manajemen Inventaris Alat Tulis Kantor
 
-Proyek ini adalah implementasi **Sistem Manajemen Inventaris** sederhana menggunakan **Generics** di Java. Sistem ini dapat menyimpan berbagai jenis alat tulis kantor (misalnya: pena, kertas) dalam container yang aman, dengan memanfaatkan kelas generik. Hanya alat tulis kantor yang diizinkan untuk disimpan dalam sistem ini.
+Proyek ini adalah implementasi **Sistem Manajemen Inventaris** sederhana menggunakan **Generics** di Java. Sistem ini dapat menyimpan berbagai jenis alat tulis kantor dalam container yang aman, dengan memanfaatkan kelas generik. Hanya alat tulis kantor yang diizinkan untuk disimpan dalam sistem ini.
 
 ## Deskripsi
 
